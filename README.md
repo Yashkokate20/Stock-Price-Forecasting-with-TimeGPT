@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Connect
 
-**👨‍💻 Developer**: Your Name  
-**📧 Email**: your.email@example.com  
+**👨‍💻 Developer**: Yash Kokate 
+**📧 Email**: yashkokate0801@gmail.com 
 **💼 LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 **🐙 GitHub**: [Your GitHub](https://github.com/yourusername)  
 **🌐 Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
