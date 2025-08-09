@@ -8,7 +8,8 @@
 
 > **A production-ready web application that provides real-time stock market forecasting using advanced AI models, technical analysis, and interactive visualizations.**
 
-![Stock Predictor Dashboard](assets/dashboard-preview.png)
+![Stock Predictor Dashboard](<img width="939" height="383" alt="Screenshot 2025-08-10 012100" src="https://github.com/user-attachments/assets/6a78a86f-a0f3-400c-9a64-d2f44d7e1902" />
+)
 
 ## 🎯 Project Overview
 
