@@ -278,9 +278,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **👨‍💻 Developer**: Yash Kokate 
 **📧 Email**: yashkokate0801@gmail.com 
-**💼 LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**🐙 GitHub**: [Your GitHub](https://github.com/yourusername)  
-**🌐 Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+**💼 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yashkokate/)  
+**🐙 GitHub**: [Your GitHub](https://github.com/Yashkokate20?tab=repositories)  
+**🌐 Portfolio**: [Your Portfolio Website](https://lnkd.in/d4v6D_3p)
 
 ---
 
